@@ -1,0 +1,2 @@
+# TermosDoProjetoAPPMegaSorte
+Termos do Projeto
